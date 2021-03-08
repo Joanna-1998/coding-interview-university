@@ -194,18 +194,18 @@
 
 ## 面试过程 & 通用的面试准备
 
-- [x] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [x] [白板编程（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [x] [揭秘技术招聘](https://www.youtube.com/watch?v=N233T0epWTs)
-- [x] 如何在科技四强企业中获得一份工作：
+- [ ] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ ] [白板编程（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [揭秘技术招聘](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] 如何在科技四强企业中获得一份工作：
     - [ ] [“如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [x] 解密开发类面试第一集：
+- [ ] 解密开发类面试第一集：
     - [ ] [Gayle L McDowell —— 解密开发类面试（视频）](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [解密开发类面试 —— 作者 Gayle Laakmann McDowell（视频）](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [x] 解密 Facebook 编码面试：
+- [ ] 解密 Facebook 编码面试：
     - [方法](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [问题演练](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [x] 准备课程：
+- [ ] 准备课程：
     - [ ] [软件工程师面试发布（收费课程）](https://www.udemy.com/software-engineer-interview-unleashed)：
         - 从前 Google 面试官身上学习如何准备自己，让自己能够应付软件工程师的面试。
     - [ ] [Python 数据结构，算法和面试（收费课程）](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)：
@@ -1314,10 +1314,10 @@
 
     *****************************************************************************************************
     *****************************************************************************************************
-    
+
     下面的内容都是可选的。
     通过学习这些内容，你将会得到更多的有关 CS 的概念，并将为所有的软件工程工作做更好的准备。你将会成为一个更全面的软件工程师。
-    
+
     *****************************************************************************************************
     *****************************************************************************************************
 
@@ -1687,7 +1687,7 @@
 --
 
 ## 一些主题的额外内容
-
+ 
     我为前面提到的某些主题增加了一些额外的内容，之所以没有直接添加到前面，是因为这样很容易导致某个主题内容过多。毕竟你想在本世纪找到一份工作，对吧？
 
 - SOLID
